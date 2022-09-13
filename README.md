@@ -14,3 +14,5 @@ Este proyecto abarca lo que es la segmentación de las materias gris y blanca en
 para lo que es el DTC y RF, cada uno cuenta con dos versiones que son:
 - La versión A de cada modelo es entrenado con una sola imagen.
 - La versión B de cada modelo es entrenado con más de una imagen.
+
+Lo anterior se realiza con la intención de analizar cada tipo de modelo frente a la segmentación de imagenes.
