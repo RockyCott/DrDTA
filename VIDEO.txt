@@ -1,3 +1,0 @@
-https://www.youtube.com/channel/UCSkF1UbDxWswU5mU9qPqbeg
-
-Nota: La duración del video es "alta" por la razón de que se trabajó más de un modelo para la segmentación de imagenes MRI.
