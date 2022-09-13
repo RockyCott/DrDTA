@@ -1,7 +1,9 @@
 <img src="https://cdn.discordapp.com/attachments/691797192041562122/1019021690161864775/banner.jpg" alt="Banner Dr DTA"/>
 
 # Dr. DTA
- Segmentación de imagenes MRI - python
+Segmentación de imagenes MRI - python
+
+https://www.youtube.com/channel/UCSkF1UbDxWswU5mU9qPqbeg
 
 Este proyecto abarca lo que es la segmentación de las materias gris y blanca en imagenes de resonancia magnetica para la detección de alzheimer, para esto se implementa 3 tipos de modelos los cuales son:
 
