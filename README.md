@@ -1,4 +1,6 @@
-<img src="https://cdn.discordapp.com/attachments/691797192041562122/1019021690161864775/banner.jpg" alt="Banner Dr DTA"/>
+<p align="center">
+  <img src="./banner.jpg" width="100%" title="banner Dr DTA">
+</p>
 
 # Dr. DTA
 Segmentación de imagenes MRI - python
