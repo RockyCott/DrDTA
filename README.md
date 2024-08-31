@@ -2,19 +2,21 @@
   <img src="./banner.jpg" width="100%" title="banner Dr DTA">
 </p>
 
-# Dr. DTA
-Segmentación de imagenes MRI - python
+# Dr. DTA - Segmentación de Imágenes MRI con Python
+
+Dr. DTA es un proyecto centrado en la segmentación de la materia gris y blanca en imágenes de resonancia magnética (MRI), con el objetivo de apoyar la detección temprana del Alzheimer.
 
 https://youtu.be/1rvoFp3m7OU
 
-Este proyecto abarca lo que es la segmentación de las materias gris y blanca en imagenes de resonancia magnetica para la detección de alzheimer, para esto se implementa 3 tipos de modelos los cuales son:
+En este proyecto, hemos implementado y comparado tres enfoques distintos para la segmentación:
 
-* DecisionTreeClasification
-* RandomForest
-* K-means
+* Decision Tree Classification (DTC)
+* Random Forest (RF)
+* K-means Clustering
 
-para lo que es el DTC y RF, cada uno cuenta con dos versiones que son:
-- La versión A de cada modelo es entrenado con una sola imagen.
-- La versión B de cada modelo es entrenado con más de una imagen.
+# Versiones de los Modelos
+Cada uno de los modelos de DTC y RF se ha entrenado en dos variantes para explorar su rendimiento en diferentes condiciones:
 
-Lo anterior se realiza con la intención de analizar cada tipo de modelo frente a la segmentación de imagenes.
+Versión A: Entrenamiento con una única imagen MRI.
+Versión B: Entrenamiento con múltiples imágenes MRI.
+La finalidad de estas versiones es evaluar y comparar cómo la cantidad de datos de entrenamiento influye en la precisión y efectividad de la segmentación.
