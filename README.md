@@ -17,6 +17,7 @@ En este proyecto, hemos implementado y comparado tres enfoques distintos para la
 # Versiones de los Modelos
 Cada uno de los modelos de DTC y RF se ha entrenado en dos variantes para explorar su rendimiento en diferentes condiciones:
 
-Versión A: Entrenamiento con una única imagen MRI.
-Versión B: Entrenamiento con múltiples imágenes MRI.
+* Versión A: Entrenamiento con una única imagen MRI.
+* Versión B: Entrenamiento con múltiples imágenes MRI.
+
 La finalidad de estas versiones es evaluar y comparar cómo la cantidad de datos de entrenamiento influye en la precisión y efectividad de la segmentación.
